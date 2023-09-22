@@ -1,0 +1,42 @@
+body{
+    max-width:960px;
+    margin:0 auto;
+}
+
+.normal{
+    line-height: 3;
+}
+
+#home{
+    color: rgb(95, 124, 9);
+}
+
+a:link {
+    color: #000;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ccc;
+}
+
+a:hover {
+    color: red;
+    text-decoration: dotted;
+}
+
+.underwave {
+    text-decoration: wavy underline lightsalmon;
+}
+
+h2::after {
+    content:"😈";
+}
+
+footer p {
+    text-align: center;
+}
+footer p a {
+    color: rgb(95, 124, 9);
+    font-size: 12px;
+}
