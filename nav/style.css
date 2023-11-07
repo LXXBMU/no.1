@@ -89,3 +89,7 @@ footer p a {
     color: rgb(95, 124, 9);
     font-size: 12px;
 }
+ul li {
+    display: inline-block;
+    width: 400px;
+  }

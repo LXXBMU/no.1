@@ -1,9 +1,8 @@
-; 初始场景，以及特效演示
-bgm:s_Title.mp3;
-unlockBgm:s_Title.mp3 -name=雲を追いかけて;
-intro:你好|欢迎来到 WebGAL 的世界;
-changeBg:bg.png -next;
-unlockCg:bg.png -name=良夜; // 解锁CG并赋予名称
-changeFigure:stand.png -left -next;
-setAnimation:enter-from-left -target=fig-left -next;
-WebGAL:欢迎使用 WebGAL！这是一款全新的网页端视觉小说引擎。 -v1.wav;
+intro:这是一个追踪之夜 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:巷子.png;
+changeFigure:女主角.png;
+:你在结束一天的工作后，独自走在回家的路上。 -fontSize=default;
+:时间已经很晚了，街上的行人寥寥无几。 -fontSize=default;
+:当你走到一条僻静的小巷时，突然感觉到好像有人在身后跟踪你。 -fontSize=default;
+:你会： -fontSize=default;
+choose:紧张地回头一看:嘎了.txt|用手机摄像头悄悄观察:2摄像头.txt;

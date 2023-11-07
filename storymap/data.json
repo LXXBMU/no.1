@@ -1,0 +1,313 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "map_type": "stamen:toner-labels",
+        "slides": [
+            {
+                "date": "",
+                "location": {
+                    "line": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E8%8B%8F%E8%BD%BC.png"
+                },
+                "text": {
+                    "headline": "16首诗词，纵览苏轼的一生",
+                    "text": ""
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 29.55,
+                    "line": true,
+                    "lon": 103.77,
+                    "zoom": 8
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E5%88%9D%E5%8F%91%E5%98%89%E5%9F%8E.png"
+                },
+                "text": {
+                    "headline": "初发嘉城",
+                    "text": "这首诗是苏轼最早的诗作，作于嘉佑四年（公元1059年）。其时苏轼、苏辙已中举，奔母丧返四川眉山后随父再赴京都。父子三人取岷江水路，经嘉州、犍为，出蜀出峡，直下江陵。苏轼时年二十四，尽览山川形胜，“杂然有触于中，而发于咏叹”。父子三人趁“舟中无事，博奕饮酒”，你唱我和，写下百余首诗篇，结集谓之《南行集》。《初发嘉州》便作于这年冬天，由嘉州出发之际。"       }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 34.77,
+                    "line": true,
+                    "lon": 111.76,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E5%92%8C%E5%AD%90%E7%94%B1%E6%B8%91%E6%B1%A0%E6%80%80%E6%97%A7.jpg"
+                },
+                "text": {
+                    "headline": "和子由渑池怀旧",
+                    "text": "公元1061年（嘉祐六年）冬，苏辙送苏轼至郑州，分别回京，作诗寄苏轼，这是苏轼的和诗。苏辙十九岁时，曾被任命为渑池县主簿，未到任即中进士。他与苏轼赴京应试路经渑池，同住县中僧舍，同于壁上题诗。如今苏轼赴陕西凤翔做官，又要经过渑池，因而作《和子由渑池怀旧》。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 30.25,
+                    "line": true,
+                    "lon": 120.21,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E9%A5%AE%E6%B9%96%E4%B8%8A%E5%88%9D%E6%99%B4%E5%90%8E%E9%9B%A8%EF%BC%88%E5%85%B6%E4%BA%8C%EF%BC%89.jpg"
+                },
+                "text": {
+                    "headline": "饮湖上初晴后雨二首·其二",
+                    "text": "1071年（宋神宗熙宁四年），苏轼因反对王安石变法被调离京师，迎来他人生的第一个失意点。他在担任杭州通判时期，曾经写下了许多关于西湖美景的诗，这首《饮湖上初晴后雨》作于1073年（熙宁六年）正、二月间。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 36.00,
+                    "line": true,
+                    "lon": 119.41,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E6%B1%9F%E5%9F%8E%E5%AD%90%C2%B7%E4%B9%99%E5%8D%AF%E6%AD%A3%E6%9C%88%E4%BA%8C%E5%8D%81%E6%97%A5%E5%A4%9C%E8%AE%B0%E6%A2%A6.jpg"
+                },
+                "text": {
+                    "headline": "江城子·乙卯正月二十日夜记梦",
+                    "text": "这首悼亡词，是1075（宋神宗熙宁八年）苏轼徙知山东密州（今山东诸城）时所作。苏东坡十九岁时，与十六岁的王弗结婚。王弗年轻美貌，且侍亲甚孝，二人恩爱情深。可惜天命无常，王弗二十七岁就去世了，这对东坡是绝大的打击，其心中的沉痛，精神上的痛苦，是不言而喻的。这一年的正月二十日，苏轼梦见去世十年的王弗，便写下了这首“有声当彻天，有泪当彻泉”的悼亡词。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 36.00,
+                    "line": true,
+                    "lon": 119.41,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E6%B1%9F%E5%9F%8E%E5%AD%90%20%E5%AF%86%E5%B7%9E%E5%87%BA%E7%8C%8E.jpg"
+                },
+                "text": {
+                    "headline": "江城子·密州出猎",
+                    "text": "1075年（宋神宗熙宁八年），苏轼在密州任知州，在一次打猎活动中，苏轼写下了这首气势雄豪、酣畅淋漓的词。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 36.00,
+                    "line": true,
+                    "lon": 119.41,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/2%E6%B0%B4%E8%B0%83%E6%AD%8C%E5%A4%B4.png"
+                },
+                "text": {
+                    "headline": "水调歌头",
+                    "text": "这首词是1076年（宋神宗熙宁九年）苏轼在密州时所作。这时候，苏轼的父亲、母亲、长姐都已离开了人世，除了儿女，世上唯一与他有血缘关系的人就是弟弟苏辙。而当时苏轼正和弟弟分离，在中秋节当天写下此词，表达自己的离思。这首词以月起兴，与弟苏辙七年未见之情为基础，围绕中秋明月展开想象和思考，把人世间的悲欢离合之情纳入对宇宙人生的哲理性追寻之中。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 34.20,
+                    "line": true,
+                    "lon": 117.28,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E6%B5%A3%E6%BA%AA%E6%B2%99.png"
+                },
+                "text": {
+                    "headline": "浣溪沙·徐门石潭谢雨道上作",
+                    "text": "1078年（宋神宗元丰元年），苏轼任徐州知州，徐州在春天发生了严重旱灾，苏轼曾率众到城东二十里的石潭求雨。得雨后，他又与百姓同赴石潭谢雨。这组词就是当年初夏在赴徐门石潭谢雨路上写成的。这里选的是第四首，主要描写农村风光优美、民风淳朴、农事忙碌的景象，充满于乡间趣味，也反映了苏轼对于百姓的关心。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 34.80,
+                    "line": true,
+                    "lon": 114.31,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/2%E7%8B%B1%E4%B8%AD%E5%AF%84%E5%AD%90%E7%94%B1.png"
+                },
+                "text": {
+                    "headline": "狱中寄子由（其一）",
+                    "text": "1079年（宋神宗元丰二年），时御史何正臣等上表弹劾苏轼，奏苏轼移知湖州到任后谢恩的上表中，用语暗藏讥刺朝政，随后又牵连出大量苏轼诗文为证，弹劾他“作为诗文讪谤朝政及中外臣僚，无所畏惮”。这案件先由监察御史告发，后在御史台狱受审。据《汉书·薛宣朱博传》记载，御史台中有柏树，野乌鸦数千栖居其上，故称御史台为“乌台”，亦称“柏台”。这就是著名的“乌台诗案”。不久，苏轼被捕解京，送入狱中。在这期间，苏轼写下了两首诗给弟弟，这是第一首。全诗写自己的悲惨遭遇，表达了对兄弟的棠棣之情，十分感人。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 30.43,
+                    "line": true,
+                    "lon": 114.88,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E5%88%9D%E5%88%B0%E9%BB%84%E5%B7%9E.jpg"
+                },
+                "text": {
+                    "headline": "初到黄州",
+                    "text": "1080年，因“乌台诗案”苏轼被贬谪居黄州，初到黄州之时，倍感悲观，但是也勉励自己要豁达。这首诗就写出了自己在黄州的复杂心情。诗中赞美了黄州山水、饮食之美，也自嘲了自己的仕途生涯。最终，诗人在这种山水之中得到了一些解脱。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 30.43,
+                    "line": true,
+                    "lon": 114.88,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/2%E5%AE%9A%E9%A3%8E%E6%B3%A2.png"
+                },
+                "text": {
+                    "headline": "定风波",
+                    "text": "1082年春，苏轼和朋友春日出游，风雨忽至，朋友深感狼狈，苏轼却毫不在乎，泰然处之。该词通过途中遇雨这件小事，来抒发自己旷达超脱的人生境界。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 30.43,
+                    "line": true,
+                    "lon": 114.88,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/2%E5%BF%B5%E5%A5%B4%E5%A8%87%20%E8%B5%A4%E5%A3%81%E6%80%80%E5%8F%A4.png"
+                },
+                "text": {
+                    "headline": "念奴娇·赤壁怀古",
+                    "text": "1082年，苏轼因“乌台诗案”被贬黄州已两年余。《念奴娇·赤壁怀古》通过对月夜江上壮美景色的描绘，借对古代战场的凭吊和对风流人物才略、气度、功业的追念，曲折地表达了作者怀才不遇、功业未就、老大未成的忧愤之情，同时表现了作者关注历史和人生的旷达之心。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 29.52,
+                    "line": true,
+                    "lon": 115.97,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E9%A2%98%E8%A5%BF%E6%9E%97%E5%A3%81.png"
+                },
+                "text": {
+                    "headline": "题西林壁",
+                    "text": "苏轼于公元1084年（神宗元丰七年）五月间由黄州贬所改迁汝州团练副使，赴汝州时经过九江，与友人参寥同游庐山。瑰丽的山水触发逸兴壮思，于是写下了若干首庐山记游诗。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 30.25,
+                    "line": true,
+                    "lon": 120.21,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/%E5%85%AB%E5%A3%B0%E7%94%98%E5%B7%9E%20%282%29.jpg"
+                },
+                "text": {
+                    "headline": "八声甘州·寄参寥子",
+                    "text": "1091年，苏轼由杭州知州召为翰林学士承旨，在即将离开杭州时，苏轼作此词赠予参寥。此词起势不凡，以钱塘江潮喻人世的聚散分合，以“俯仰昔人非”写人世转瞬万变。下阕写词人与参寥的友情。全篇大开大合，波澜起伏、跌宕多姿，是其他词人难以驾驭的。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 23.11,
+                    "line": true,
+                    "lon": 114.42,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/2%E6%83%A0%E5%B7%9E%E4%B8%80%E7%BB%9D.png"
+                },
+                "text": {
+                    "headline": "惠州一绝",
+                    "text": "这首诗于1096年（绍圣三年）作于惠州，1094年（宋哲宗绍圣元年），苏轼被人告以“讥斥先朝”的罪名被贬岭南，“不得签书公事”。岭南两广一带在宋时为蛮荒之地，罪臣多被流放至此，迁客逐臣到这里，往往颇多哀怨嗟叹之辞，而东坡则不然，他在这首七绝中表现出他素有的乐观旷达、随遇而安的精神风貌，同时还表达了他对岭南风物的热爱之情。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 18.31,
+                    "line": true,
+                    "lon": 115.97,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/2.png"
+                },
+                "text": {
+                    "headline": "六月二十日夜渡海",
+                    "text": "被贬黄州并非是苏轼最惨的经历。1097年，年已62岁的苏轼被一叶孤舟送到了徼边荒凉之地海南岛儋州。据说在宋朝，放逐海南是仅比满门抄斩罪轻一等的处罚。苏轼把儋州当成了自己的第二故乡，“我本儋耳氏，寄生西蜀州”。他在这里办学堂，介学风，以致许多人不远千里，追至儋州，从苏轼学。在宋代100多年里，海南从没有人进士及第。但苏轼北归不久，这里的姜唐佐就举乡贡。为此苏轼题诗：“沧海何曾断地脉，珠崖从此破天荒。”直到七年后哲宗病死，才遇赦北还。1100年，苏轼从海南岛乘船北归，写下了这首诗。苏轼在诗中回顾自己被贬的经历，也表现了他北归的兴奋之情以及九死不悔的倨傲之心和坚强自信。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 32.28,
+                    "line": true,
+                    "lon": 119.18,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://xlbb-zzzang.oss-ap-southeast-1.aliyuncs.com/2%E8%87%AA%E9%A2%98%E9%87%91%E5%B1%B1%E7%94%BB%E5%83%8F.png"
+                },
+                "text": {
+                    "headline": "自题金山画像",
+                    "text": "1101年三月，苏轼由虔州出发，经南昌、当涂、金陵，五月抵达真州，六月经润州拟到常州居住。《自题金山画像》是苏轼在真州游金山龙游寺时所作。作此诗时，是苏轼去世前两个月。回首自己的一生，几起几落，失意坎坷，纵然有忠义填骨髓的浩瀚之气，也不得不化为壮志未酬的长长叹息。作者只能慷慨悲歌，自叹飘零。接下来的“身如不系之舟”指自己晚年生活的飘泊不定，抒写羁旅漂泊的忧伤情怀。但苏轼不会，也不屑在哀愁中沉沦。“问汝平生功业，黄州惠州儋州”一反忧伤情调，以久惯世路的旷达来取代人生失意的哀愁，自我解脱力是惊人的。失意也罢，坎坷也罢，他却丝毫不减豪放本色，可谓不可救药的浪漫。"
+                }
+            }
+        ]
+    }
+}
